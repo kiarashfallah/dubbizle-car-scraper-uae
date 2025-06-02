@@ -1,7 +1,13 @@
 # dubizzle-car-scraper-uae
 
 A Python bot for scraping used car listings from [Dubizzle UAE](https://dubizzle.com).
+dubizzle car scraper
 
+UAE car listing scraper
+
+selenium script for scraping dubizzle
+
+Python script to collect car data from dubizzle
 ## 🌍 Requirements
 
 - This bot **requires a UAE-based IP address**.  
